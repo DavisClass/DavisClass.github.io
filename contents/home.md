@@ -2,16 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
+He is a graduate researcher with training in mathematics, economics, and data science, with a strong interest in statistical and stochastic modeling for economic and financial systems.
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: classkatey@gmail.com  
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Sc., Mathematical Sciences ( Data Science ), African Institute for Mathematical Sciences (AIMS), 2024—2025.
+B.Sc., Mathematics with Economics, University of Cape Coast, Ghana, 2019—2023.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Mathematical Modeling; Econometrics; Stochastic Processes; Financial Mathematics;
+Machine Learning for Economic and Financial Data; Risk Analysis; Market Behavior Modeling
 
