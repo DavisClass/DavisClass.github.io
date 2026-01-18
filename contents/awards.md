@@ -1,12 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Master’s Degree Completion, African Institute of Mathematical Sciences (AIMS), Ghana.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Bachelor of Science in Mathematics with Economics, University of Cape Coast.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Academic Merit Recognition in Mathematics, University of Cape Coast.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- Teaching Assistant, Mathematics and Statistics Courses, University of Cape Coast.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Junior Consultant Data Scientist, Educational NGO (Data Systems & Analytics).
